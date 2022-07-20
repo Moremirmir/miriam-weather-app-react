@@ -17,7 +17,7 @@ export default function App(props) {
           </a>
           . This is an{" "}
           <a
-            href="https://github.com/Moremirmir/react-weather-app-project"
+            href="https://github.com/Moremirmir/miriam-weather-app-react"
             target="_blank"
             rel="noopener noreferrer"
           >
